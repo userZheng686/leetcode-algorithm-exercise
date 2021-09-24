@@ -11,5 +11,5 @@
 
 ## [6.Z字形变换](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/6.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.js)
 
-## [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+## [7. 整数反转](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/7.%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.js)
 
