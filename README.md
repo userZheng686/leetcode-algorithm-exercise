@@ -10,3 +10,6 @@
 ## [5.最长回文子串](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.js)
 
 ## [6.Z字形变换](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/6.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.js)
+
+## [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
+
