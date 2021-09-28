@@ -24,3 +24,11 @@
 ## [12 整数转罗马数字](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/12.%E6%95%B4%E6%95%B0%E8%BD%AC%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97.js)
 
 ## [13.罗马数字转整数](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/13.%E7%BD%97%E9%A9%AC%E6%95%B0%E5%AD%97%E8%BD%AC%E6%95%B4%E6%95%B0.js)
+
+## [14 最长公共前缀]()
+
+## [15 三数之和]()
+
+## [16 最接近的三数之和]()
+
+## [17 电话号码的字母组合]()
