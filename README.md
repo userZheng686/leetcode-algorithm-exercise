@@ -32,3 +32,13 @@
 ## [16 最接近的三数之和](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/16.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.js)
 
 ## [17 电话号码的字母组合](https://github.com/userZheng686/leetcode-algorithm-exercise/blob/master/%E7%BB%83%E4%B9%A0/17.%20%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.js)
+
+## [18.四数之和]()
+
+## [19.删除链表的倒数第 N 个结点]()
+
+## [20.有效的括号]()
+
+## [21.合并两个有序链表]()
+
+## [22.括号生成]()
